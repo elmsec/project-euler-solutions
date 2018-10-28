@@ -1,8 +1,4 @@
 import math
-import time
-
-
-t1 = time.time()
 
 
 def is_prime_number(n):
